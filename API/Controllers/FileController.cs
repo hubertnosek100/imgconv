@@ -30,12 +30,6 @@ namespace API.Controllers
             return Directory.GetFiles(filePath).Select(Path.GetFileName).Select(GetExternalFileUrl).ToList();
         }
 
-        [HttpGet("{id}")]
-        public ActionResult<string> Get(string id)
-        {
-            return "value";
-        }
-
         [HttpPost]
         public IActionResult Post()
         {
@@ -52,17 +46,17 @@ namespace API.Controllers
                     if (file.Length > 0)
                     {
                         var id = Guid.NewGuid();
-                        var fileName = $"{id}.{file.FileName.Split(".").Last()}";
-                        var filePath = Path.Combine(dir, fileName);
+                        
+                        PipelineFile pFile = new PipelineFile(file);
+                        pFile.Rename(id.ToString());
+                        
+                        var filePath = Path.Combine(dir, pFile.FileName);
                         using (FileStream fs = System.IO.File.Create(filePath))
                         {
                             file.CopyTo(fs);
                             fs.Flush();
                         }
-
-
-                        var pFile = new PipelineFile(file);
-                        pFile.Rename(id.ToString());
+                       
                         _pipeline.Run(dir, pFile);
 
                         ids.Add(GetExternalFileUrl($"{id}.svg"));
