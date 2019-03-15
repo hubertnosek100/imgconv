@@ -56,5 +56,5 @@ of the License at
     License for the specific language governing permissions and limitations
     under the License.
 
-2. [GNU](https://www.gnu.org/licenses/gpl.html)
+2. GNU
 
