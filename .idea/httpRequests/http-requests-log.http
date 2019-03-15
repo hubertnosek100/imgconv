@@ -1,0 +1,256 @@
+POST http://localhost:5000/api/file
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\ASoft2\Documents\Edica\API\ImageCoverter\API\wwwroot\test2.png
+--null--
+
+###
+
+POST http://localhost:5000/api/file
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\ASoft2\Documents\Edica\API\ImageCoverter\API\wwwroot\test2.png
+--null--
+
+###
+
+POST http://localhost:5000/api/file
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\ASoft2\Documents\Edica\API\ImageCoverter\API\wwwroot\test2.png
+--null--
+
+###
+
+POST http://localhost:5000/api/file
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\ASoft2\Documents\Edica\API\ImageCoverter\API\wwwroot\test2.png
+--null--
+
+###
+
+POST http://localhost:5000/api/file
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\ASoft2\Documents\Edica\API\ImageCoverter\API\wwwroot\test2.png
+--null--
+
+###
+
+POST http://localhost:5000/api/file
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\ASoft2\Documents\Edica\API\ImageCoverter\API\wwwroot\test2.png
+--null--
+
+###
+
+POST http://localhost:5000/api/file
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\ASoft2\Documents\Edica\API\ImageCoverter\API\wwwroot\test2.png
+--null--
+
+###
+
+POST http://localhost:5000/api/file
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\ASoft2\Documents\Edica\API\ImageCoverter\API\wwwroot\test2.png
+--null--
+
+###
+
+POST http://localhost:5000/api/file
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\ASoft2\Documents\Edica\API\ImageCoverter\API\wwwroot\test2.png
+--null--
+
+###
+
+GET http://localhost:5000/api/file
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\ASoft2\Documents\Edica\API\ImageCoverter\API\wwwroot\test2.png
+--null--
+
+<> 2019-03-14T125148.200.json
+
+###
+
+GET http://localhost:5000/api/values
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\ASoft2\Documents\Edica\API\ImageCoverter\API\wwwroot\test2.png
+--null--
+
+###
+
+GET http://localhost:5000/api/values
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\ASoft2\Documents\Edica\API\ImageCoverter\API\wwwroot\test2.png
+--null--
+
+###
+
+GET http://localhost:5001/api/values
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\ASoft2\Documents\Edica\API\ImageCoverter\API\wwwroot\test2.png
+--null--
+
+###
+
+GET http://localhost:5001/api/values
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\ASoft2\Documents\Edica\API\ImageCoverter\API\wwwroot\test2.png
+--null--
+
+###
+
+GET http://localhost:5000/api/values
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\ASoft2\Documents\Edica\API\ImageCoverter\API\wwwroot\test2.png
+--null--
+
+###
+
+GET http://localhost:5000/api/values
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\ASoft2\Documents\Edica\API\ImageCoverter\API\wwwroot\test2.png
+--null--
+
+###
+
+GET http://localhost:5000/api/values
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\ASoft2\Documents\Edica\API\ImageCoverter\API\wwwroot\test2.png
+--null--
+
+###
+
+GET https://localhost:5000/api/values
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\ASoft2\Documents\Edica\API\ImageCoverter\API\wwwroot\test2.png
+--null--
+
+###
+
+POST https://localhost:5000/api/values
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\ASoft2\Documents\Edica\API\ImageCoverter\API\wwwroot\test2.png
+--null--
+
+###
+
+POST https://localhost:5001/api/values
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< C:\Users\ASoft2\Documents\Edica\API\ImageCoverter\API\wwwroot\test2.png
+--null--
+
+###
+
+GET https://localhost:5001/api/values
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-14T100431.200.json
+
+###
+
+GET https://localhost:5001
+Accept: */*
+Cache-Control: no-cache
+
+###
+

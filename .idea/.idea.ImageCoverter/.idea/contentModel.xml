@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ASoft2\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\ASoft2\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\ASoft2\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\ASoft2\.Rider2018.2\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\ASoft2\.Rider2018.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\ASoft2\.Rider2018.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\ASoft2\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ASoft2\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_ImageCoverter.-1468982580.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ASoft2\Documents\Edica\API\ImageCoverter" t="IncludeFlat">
+      <e p="API" t="IncludeRecursive">
+        <e p="API.csproj" t="IncludeRecursive" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="Bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="FileController.cs" t="Include" />
+          <e p="Pipeline" t="Include">
+            <e p="IProcessPipeline.cs" t="Include" />
+            <e p="PipelineFile.cs" t="Include" />
+            <e p="ProcessPipeline.cs" t="Include" />
+            <e p="Steps" t="Include">
+              <e p="IPipelineStep.cs" t="Include" />
+              <e p="NoSvgRemoverStep.cs" t="Include" />
+              <e p="PnmConverterStep.cs" t="Include" />
+              <e p="SvgConverterStep.cs" t="Include" />
+              <e p="SvgRemoverStep.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="dockerfile" t="Include" />
+        <e p="Infrastructure" t="Include">
+          <e p="ReflectiveEnumerator.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="API.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="wwwroot" t="Include">
+          <e p="bmp.bmp" t="Include" />
+          <e p="gif.gif" t="Include" />
+          <e p="ico.ico" t="Include" />
+          <e p="jpeg.jpeg" t="Include" />
+          <e p="jpg.jpg" t="Include" />
+          <e p="png.png" t="Include" />
+          <e p="tiff.tiff" t="Include" />
+        </e>
+      </e>
+      <e p="APITest" t="IncludeRecursive">
+        <e p="APITest.csproj" t="IncludeRecursive" />
+        <e p="Bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="APITest.AssemblyInfo.cs" t="Include" />
+              <e p="APITest.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ReflectiveEnumeratorTest.cs" t="Include" />
+      </e>
+      <e p="ImageCoverter.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
