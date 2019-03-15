@@ -8,6 +8,18 @@
       <change beforePath="$PROJECT_DIR$/../Edica/Model/obj/Model.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Edica/Model/obj/Model.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Edica/WebApp/Features/Format/Index/FormatViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Edica/WebApp/Features/Format/Index/FormatViewModel.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Edica/WebApp/Migrations/EdicaContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Edica/WebApp/Migrations/EdicaContextModelSnapshot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ImageCoverter/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ImageCoverter/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APITest/bin/Debug/netcoreapp2.2/APITest.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APITest/bin/Debug/netcoreapp2.2/APITest.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APITest/bin/Debug/netcoreapp2.2/APITest.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APITest/obj/APITest.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APITest/obj/APITest.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APITest/obj/Debug/netcoreapp2.2/APITest.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APITest/obj/Debug/netcoreapp2.2/APITest.Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APITest/obj/Debug/netcoreapp2.2/APITest.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APITest/obj/Debug/netcoreapp2.2/APITest.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APITest/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APITest/obj/project.packagespec.json" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +32,7 @@
     <session id="780216137">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
@@ -235,7 +247,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/221FA654-76FD-4A6A-A7BE-C2CD9B5A08D9/71/7ed10111/IConfiguration.cs" root0="SKIP_HIGHLIGHTING" />
@@ -504,12 +516,12 @@
       <workItem from="1552554202030" duration="14280000" />
       <workItem from="1552627479836" duration="838000" />
       <workItem from="1552628322964" duration="78000" />
-      <workItem from="1552628426638" duration="4022000" />
+      <workItem from="1552628426638" duration="4104000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19218000" />
+    <option name="totallyTimeSpent" value="19300000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
