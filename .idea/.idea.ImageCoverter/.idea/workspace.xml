@@ -8,18 +8,8 @@
       <change beforePath="$PROJECT_DIR$/../Edica/Model/obj/Model.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Edica/Model/obj/Model.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Edica/WebApp/Features/Format/Index/FormatViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Edica/WebApp/Features/Format/Index/FormatViewModel.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Edica/WebApp/Migrations/EdicaContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Edica/WebApp/Migrations/EdicaContextModelSnapshot.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ImageCoverter/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ImageCoverter/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APITest/bin/Debug/netcoreapp2.2/APITest.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/APITest/bin/Debug/netcoreapp2.2/APITest.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/APITest/bin/Debug/netcoreapp2.2/APITest.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/APITest/obj/APITest.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/APITest/obj/APITest.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/APITest/obj/Debug/netcoreapp2.2/APITest.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/APITest/obj/Debug/netcoreapp2.2/APITest.Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/APITest/obj/Debug/netcoreapp2.2/APITest.csproj.CopyComplete" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/APITest/obj/Debug/netcoreapp2.2/APITest.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/APITest/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/APITest/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ImageCoverter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ImageCoverter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/API/Startup.cs" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,16 +22,16 @@
     <session id="780216137">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="27" />
+          <entry key="cs" value="28" />
           <entry key="dockerfile" value="2" />
           <entry key="json" value="2" />
           <entry key="png" value="1" />
@@ -50,7 +40,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="27" />
+          <entry key="C#" value="28" />
           <entry key="Image" value="1" />
           <entry key="JSON" value="2" />
           <entry key="PLAIN_TEXT" value="2" />
@@ -59,7 +49,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="2893" />
+          <entry key="cs" value="2920" />
           <entry key="dockerfile" value="59" />
           <entry key="json" value="20" />
           <entry key="yml" value="28" />
@@ -67,7 +57,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="2893" />
+          <entry key="C#" value="2920" />
           <entry key="JSON" value="20" />
           <entry key="PLAIN_TEXT" value="59" />
           <entry key="YAML" value="28" />
@@ -78,31 +68,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/API/Controllers/Pipeline/Steps/SvgRemoverStep.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-              <folding>
-                <marker date="1552630436117" expanded="false" signature="6:124" ph="..." />
-                <marker date="1552630436117" expanded="true" signature="166:881" ph="{...}" />
-                <marker date="1552630436117" expanded="true" signature="216:879" ph="{...}" />
-                <marker date="1552630436117" expanded="true" signature="339:403" ph="{...}" />
-                <marker date="1552630436117" expanded="true" signature="517:873" ph="{...}" />
-                <marker date="1552630436117" expanded="true" signature="721:863" ph="{...}" />
-                <marker date="1552630436117" expanded="true" signature="774:849" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/API/Controllers/Pipeline/Steps/SvgConverterStep.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="400">
               <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
               <folding>
                 <marker date="1552630551487" expanded="false" signature="6:94" ph="..." />
-                <marker date="1552630551487" expanded="true" signature="136:958" ph="{...}" />
                 <marker date="1552630551487" expanded="true" signature="188:956" ph="{...}" />
                 <marker date="1552630551487" expanded="true" signature="305:950" ph="{...}" />
                 <marker date="1552630551487" expanded="true" signature="508:827" ph="{...}" />
@@ -118,7 +89,6 @@
             <state relative-caret-position="144">
               <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
               <folding>
-                <marker date="1552630436087" expanded="true" signature="74:216" ph="{...}" />
                 <marker date="1552630436087" expanded="true" signature="111:214" ph="{...}" />
               </folding>
             </state>
@@ -132,7 +102,6 @@
               <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
               <folding>
                 <marker date="1552630540087" expanded="false" signature="6:136" ph="..." />
-                <marker date="1552630540087" expanded="true" signature="178:973" ph="{...}" />
                 <marker date="1552630540087" expanded="true" signature="230:971" ph="{...}" />
                 <marker date="1552630540087" expanded="true" signature="347:965" ph="{...}" />
                 <marker date="1552630540087" expanded="true" signature="522:841" ph="{...}" />
@@ -149,7 +118,6 @@
               <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               <folding>
                 <marker date="1552554206471" expanded="false" signature="6:255" ph="..." />
-                <marker date="1552554206471" expanded="true" signature="270:597" ph="{...}" />
                 <marker date="1552554206471" expanded="true" signature="297:595" ph="{...}" />
                 <marker date="1552554206471" expanded="true" signature="350:424" ph="{...}" />
               </folding>
@@ -164,7 +132,6 @@
               <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <marker date="1552630555744" expanded="false" signature="6:68" ph="..." />
-                <marker date="1552630555744" expanded="true" signature="110:770" ph="{...}" />
                 <marker date="1552630555744" expanded="true" signature="162:768" ph="{...}" />
                 <marker date="1552630555744" expanded="true" signature="348:762" ph="{...}" />
                 <marker date="1552630555744" expanded="true" signature="449:752" ph="{...}" />
@@ -178,11 +145,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/API/Controllers/Pipeline/PipelineFile.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+            <state relative-caret-position="272">
+              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
               <folding>
                 <marker date="1552631500444" expanded="false" signature="6:122" ph="..." />
-                <marker date="1552631500444" expanded="true" signature="158:1458" ph="{...}" />
                 <marker date="1552631500444" expanded="true" signature="202:1456" ph="{...}" />
                 <marker date="1552631500444" expanded="true" signature="385:561" ph="{...}" />
                 <marker date="1552631500444" expanded="true" signature="601:668" ph="{...}" />
@@ -194,11 +160,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/API/dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="256">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -206,21 +172,39 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/API/Controllers/FileController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="66" selection-start-line="66" selection-end-line="66" />
+            <state relative-caret-position="321">
+              <caret line="65" column="39" selection-start-line="65" selection-start-column="39" selection-end-line="65" selection-end-column="39" />
               <folding>
-                <marker date="1552630436096" expanded="false" signature="6:246" ph="..." />
-                <marker date="1552630436096" expanded="true" signature="273:2641" ph="{...}" />
-                <marker date="1552630436096" expanded="true" signature="376:2639" ph="{...}" />
-                <marker date="1552630436096" expanded="true" signature="585:679" ph="{...}" />
-                <marker date="1552630436096" expanded="true" signature="753:950" ph="{...}" />
-                <marker date="1552630436096" expanded="true" signature="1028:1076" ph="{...}" />
-                <marker date="1552630436096" expanded="true" signature="1132:2462" ph="{...}" />
-                <marker date="1552630436096" expanded="true" signature="1261:2385" ph="{...}" />
-                <marker date="1552630436096" expanded="true" signature="1511:2281" ph="{...}" />
-                <marker date="1552630436096" expanded="true" signature="1570:2263" ph="{...}" />
-                <marker date="1552630436096" expanded="true" signature="1871:2008" ph="{...}" />
-                <marker date="1552630436096" expanded="true" signature="2521:2633" ph="{...}" />
+                <marker date="1552633010416" expanded="false" signature="6:246" ph="..." />
+                <marker date="1552633010416" expanded="true" signature="273:2520" ph="{...}" />
+                <marker date="1552633010416" expanded="true" signature="376:2518" ph="{...}" />
+                <marker date="1552633010416" expanded="true" signature="585:679" ph="{...}" />
+                <marker date="1552633010416" expanded="true" signature="753:950" ph="{...}" />
+                <marker date="1552633010416" expanded="true" signature="1006:2341" ph="{...}" />
+                <marker date="1552633010416" expanded="true" signature="1135:2264" ph="{...}" />
+                <marker date="1552633010416" expanded="true" signature="1385:2160" ph="{...}" />
+                <marker date="1552633010416" expanded="true" signature="1444:2142" ph="{...}" />
+                <marker date="1552633010416" expanded="true" signature="1841:1978" ph="{...}" />
+                <marker date="1552633010416" expanded="true" signature="2400:2512" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/API/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+              <folding>
+                <marker date="1552639526531" expanded="false" signature="6:457" ph="..." />
+                <marker date="1552639526531" expanded="true" signature="472:1834" ph="{...}" />
+                <marker date="1552639526531" expanded="true" signature="499:1832" ph="{...}" />
+                <marker date="1552639526531" expanded="true" signature="558:621" ph="{...}" />
+                <marker date="1552639526531" expanded="true" signature="844:1054" ph="{...}" />
+                <marker date="1552639526531" expanded="true" signature="1242:1826" ph="{...}" />
+                <marker date="1552639526531" expanded="true" signature="1289:1366" ph="{...}" />
+                <marker date="1552639526531" expanded="true" signature="1383:1586" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -232,7 +216,6 @@
             <state relative-caret-position="128">
               <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding>
-                <marker date="1552630110607" expanded="true" signature="68:176" ph="{...}" />
                 <marker date="1552630110607" expanded="true" signature="108:174" ph="{...}" />
               </folding>
             </state>
@@ -284,18 +267,18 @@
         <option value="$PROJECT_DIR$/API/Controllers/Pipeline/Steps/FileRemoverStep.cs" />
         <option value="$PROJECT_DIR$/API/appsettings.json" />
         <option value="$PROJECT_DIR$/APITest/UnitTest1.cs" />
-        <option value="$PROJECT_DIR$/API/Startup.cs" />
         <option value="$PROJECT_DIR$/APITest/ReflectiveEnumeratorTest.cs" />
         <option value="$PROJECT_DIR$/API/Infrastructure/ReflectiveEnumerator.cs" />
         <option value="$PROJECT_DIR$/API/Controllers/Pipeline/ProcessPipeline.cs" />
         <option value="$PROJECT_DIR$/API/Controllers/Pipeline/IProcessPipeline.cs" />
         <option value="$PROJECT_DIR$/API/Controllers/Pipeline/Steps/IPipelineStep.cs" />
         <option value="$PROJECT_DIR$/API/Controllers/Pipeline/Steps/SvgRemoverStep.cs" />
-        <option value="$PROJECT_DIR$/API/Controllers/FileController.cs" />
         <option value="$PROJECT_DIR$/API/Controllers/Pipeline/Steps/PnmConverterStep.cs" />
         <option value="$PROJECT_DIR$/API/Controllers/Pipeline/Steps/SvgConverterStep.cs" />
         <option value="$PROJECT_DIR$/API/Controllers/Pipeline/Steps/NoSvgRemoverStep.cs" />
         <option value="$PROJECT_DIR$/API/Controllers/Pipeline/PipelineFile.cs" />
+        <option value="$PROJECT_DIR$/API/Controllers/FileController.cs" />
+        <option value="$PROJECT_DIR$/API/Startup.cs" />
       </list>
     </option>
   </component>
@@ -305,7 +288,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="2576" />
     <option name="height" value="1056" />
@@ -318,7 +301,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -326,27 +308,18 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="ImageCoverter" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="ImageCoverter" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="API" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="ImageCoverter" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="API" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="star&#9;FILE&#9;file://C:/Users/ASoft2/Documents/Edica/API/ImageCoverter/API/Startup.cs" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/API/wwwroot/test2.png" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -475,7 +448,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.Default">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/API/bin/Debug/netcoreapp2.2/API.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -499,6 +472,9 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -514,11 +490,13 @@
       <workItem from="1552627479836" duration="838000" />
       <workItem from="1552628322964" duration="78000" />
       <workItem from="1552628426638" duration="4104000" />
+      <workItem from="1552632929133" duration="764000" />
+      <workItem from="1552638986342" duration="1409000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19300000" />
+    <option name="totallyTimeSpent" value="21473000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -532,7 +510,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25596184" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2599364" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -643,9 +621,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/API/wwwroot/test.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/API/wwwroot/test.png" />
     <entry file="file://$PROJECT_DIR$/API/appsettings.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -674,33 +650,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/API/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-          <folding>
-            <marker date="1552569472943" expanded="true" signature="6:457" ph="..." />
-            <marker date="1552569472943" expanded="true" signature="472:1672" ph="{...}" />
-            <marker date="1552569472943" expanded="true" signature="499:1670" ph="{...}" />
-            <marker date="1552569472943" expanded="true" signature="558:621" ph="{...}" />
-            <marker date="1552569472943" expanded="true" signature="844:1022" ph="{...}" />
-            <marker date="1552569472943" expanded="true" signature="1210:1664" ph="{...}" />
-            <marker date="1552569472943" expanded="true" signature="1257:1334" ph="{...}" />
-            <marker date="1552569472943" expanded="true" signature="1351:1554" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/APITest/ReflectiveEnumeratorTest.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-          <folding>
-            <marker date="1552628939281" expanded="false" signature="6:120" ph="..." />
-            <marker date="1552628939281" expanded="true" signature="139:561" ph="{...}" />
-            <marker date="1552628939281" expanded="true" signature="183:559" ph="{...}" />
-            <marker date="1552628939281" expanded="true" signature="268:553" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -708,13 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
-          <folding>
-            <marker date="1552629309023" expanded="true" signature="6:139" ph="..." />
-            <marker date="1552629309023" expanded="true" signature="169:1112" ph="{...}" />
-            <marker date="1552629309023" expanded="true" signature="216:1110" ph="{...}" />
-            <marker date="1552629309023" expanded="true" signature="325:1104" ph="{...}" />
-            <marker date="1552629309023" expanded="true" signature="712:1065" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -729,89 +675,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-          <folding>
-            <marker date="1552630436108" expanded="false" signature="6:205" ph="..." />
-            <marker date="1552630436108" expanded="true" signature="241:760" ph="{...}" />
-            <marker date="1552630436108" expanded="true" signature="295:758" ph="{...}" />
-            <marker date="1552630436108" expanded="true" signature="420:556" ph="{...}" />
-            <marker date="1552630436108" expanded="true" signature="617:752" ph="{...}" />
-            <marker date="1552630436108" expanded="true" signature="668:742" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/API/Controllers/FileController.cs">
+    <entry file="file://$PROJECT_DIR$/API/Controllers/Pipeline/Steps/SvgRemoverStep.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        <state relative-caret-position="208">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
           <folding>
-            <marker date="1552630436096" expanded="false" signature="6:246" ph="..." />
-            <marker date="1552630436096" expanded="true" signature="273:2641" ph="{...}" />
-            <marker date="1552630436096" expanded="true" signature="376:2639" ph="{...}" />
-            <marker date="1552630436096" expanded="true" signature="585:679" ph="{...}" />
-            <marker date="1552630436096" expanded="true" signature="753:950" ph="{...}" />
-            <marker date="1552630436096" expanded="true" signature="1028:1076" ph="{...}" />
-            <marker date="1552630436096" expanded="true" signature="1132:2462" ph="{...}" />
-            <marker date="1552630436096" expanded="true" signature="1261:2385" ph="{...}" />
-            <marker date="1552630436096" expanded="true" signature="1511:2281" ph="{...}" />
-            <marker date="1552630436096" expanded="true" signature="1570:2263" ph="{...}" />
-            <marker date="1552630436096" expanded="true" signature="1871:2008" ph="{...}" />
-            <marker date="1552630436096" expanded="true" signature="2521:2633" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <marker date="1552554206471" expanded="false" signature="6:255" ph="..." />
-            <marker date="1552554206471" expanded="true" signature="270:597" ph="{...}" />
-            <marker date="1552554206471" expanded="true" signature="297:595" ph="{...}" />
-            <marker date="1552554206471" expanded="true" signature="350:424" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API/Controllers/Pipeline/IProcessPipeline.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <marker date="1552630110607" expanded="true" signature="68:176" ph="{...}" />
-            <marker date="1552630110607" expanded="true" signature="108:174" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API/Controllers/Pipeline/Steps/NoSvgRemoverStep.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <marker date="1552630555744" expanded="false" signature="6:68" ph="..." />
-            <marker date="1552630555744" expanded="true" signature="110:770" ph="{...}" />
-            <marker date="1552630555744" expanded="true" signature="162:768" ph="{...}" />
-            <marker date="1552630555744" expanded="true" signature="348:762" ph="{...}" />
-            <marker date="1552630555744" expanded="true" signature="449:752" ph="{...}" />
-            <marker date="1552630555744" expanded="true" signature="572:738" ph="{...}" />
-            <marker date="1552630555744" expanded="true" signature="633:720" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API/Controllers/Pipeline/Steps/PnmConverterStep.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-          <folding>
-            <marker date="1552630540087" expanded="false" signature="6:136" ph="..." />
-            <marker date="1552630540087" expanded="true" signature="178:973" ph="{...}" />
-            <marker date="1552630540087" expanded="true" signature="230:971" ph="{...}" />
-            <marker date="1552630540087" expanded="true" signature="347:965" ph="{...}" />
-            <marker date="1552630540087" expanded="true" signature="522:841" ph="{...}" />
-            <marker date="1552630540087" expanded="true" signature="589:827" ph="{...}" />
+            <marker date="1552630436117" expanded="false" signature="6:124" ph="..." />
+            <marker date="1552630436117" expanded="true" signature="216:879" ph="{...}" />
+            <marker date="1552630436117" expanded="true" signature="339:403" ph="{...}" />
+            <marker date="1552630436117" expanded="true" signature="517:873" ph="{...}" />
+            <marker date="1552630436117" expanded="true" signature="721:863" ph="{...}" />
+            <marker date="1552630436117" expanded="true" signature="774:849" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -822,27 +699,10 @@
           <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
           <folding>
             <marker date="1552630551487" expanded="false" signature="6:94" ph="..." />
-            <marker date="1552630551487" expanded="true" signature="136:958" ph="{...}" />
             <marker date="1552630551487" expanded="true" signature="188:956" ph="{...}" />
             <marker date="1552630551487" expanded="true" signature="305:950" ph="{...}" />
             <marker date="1552630551487" expanded="true" signature="508:827" ph="{...}" />
             <marker date="1552630551487" expanded="true" signature="575:813" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API/Controllers/Pipeline/Steps/SvgRemoverStep.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-          <folding>
-            <marker date="1552630436117" expanded="false" signature="6:124" ph="..." />
-            <marker date="1552630436117" expanded="true" signature="166:881" ph="{...}" />
-            <marker date="1552630436117" expanded="true" signature="216:879" ph="{...}" />
-            <marker date="1552630436117" expanded="true" signature="339:403" ph="{...}" />
-            <marker date="1552630436117" expanded="true" signature="517:873" ph="{...}" />
-            <marker date="1552630436117" expanded="true" signature="721:863" ph="{...}" />
-            <marker date="1552630436117" expanded="true" signature="774:849" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -852,19 +712,58 @@
         <state relative-caret-position="144">
           <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding>
-            <marker date="1552630436087" expanded="true" signature="74:216" ph="{...}" />
             <marker date="1552630436087" expanded="true" signature="111:214" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/Controllers/Pipeline/Steps/PnmConverterStep.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <marker date="1552630540087" expanded="false" signature="6:136" ph="..." />
+            <marker date="1552630540087" expanded="true" signature="230:971" ph="{...}" />
+            <marker date="1552630540087" expanded="true" signature="347:965" ph="{...}" />
+            <marker date="1552630540087" expanded="true" signature="522:841" ph="{...}" />
+            <marker date="1552630540087" expanded="true" signature="589:827" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <marker date="1552554206471" expanded="false" signature="6:255" ph="..." />
+            <marker date="1552554206471" expanded="true" signature="297:595" ph="{...}" />
+            <marker date="1552554206471" expanded="true" signature="350:424" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/Controllers/Pipeline/Steps/NoSvgRemoverStep.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <marker date="1552630555744" expanded="false" signature="6:68" ph="..." />
+            <marker date="1552630555744" expanded="true" signature="162:768" ph="{...}" />
+            <marker date="1552630555744" expanded="true" signature="348:762" ph="{...}" />
+            <marker date="1552630555744" expanded="true" signature="449:752" ph="{...}" />
+            <marker date="1552630555744" expanded="true" signature="572:738" ph="{...}" />
+            <marker date="1552630555744" expanded="true" signature="633:720" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/API/Controllers/Pipeline/PipelineFile.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        <state relative-caret-position="272">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
           <folding>
             <marker date="1552631500444" expanded="false" signature="6:122" ph="..." />
-            <marker date="1552631500444" expanded="true" signature="158:1458" ph="{...}" />
             <marker date="1552631500444" expanded="true" signature="202:1456" ph="{...}" />
             <marker date="1552631500444" expanded="true" signature="385:561" ph="{...}" />
             <marker date="1552631500444" expanded="true" signature="601:668" ph="{...}" />
@@ -877,8 +776,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/API/dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="256">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/Controllers/Pipeline/IProcessPipeline.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1552630110607" expanded="true" signature="108:174" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/Controllers/FileController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="65" column="39" selection-start-line="65" selection-start-column="39" selection-end-line="65" selection-end-column="39" />
+          <folding>
+            <marker date="1552633010416" expanded="false" signature="6:246" ph="..." />
+            <marker date="1552633010416" expanded="true" signature="273:2520" ph="{...}" />
+            <marker date="1552633010416" expanded="true" signature="376:2518" ph="{...}" />
+            <marker date="1552633010416" expanded="true" signature="585:679" ph="{...}" />
+            <marker date="1552633010416" expanded="true" signature="753:950" ph="{...}" />
+            <marker date="1552633010416" expanded="true" signature="1006:2341" ph="{...}" />
+            <marker date="1552633010416" expanded="true" signature="1135:2264" ph="{...}" />
+            <marker date="1552633010416" expanded="true" signature="1385:2160" ph="{...}" />
+            <marker date="1552633010416" expanded="true" signature="1444:2142" ph="{...}" />
+            <marker date="1552633010416" expanded="true" signature="1841:1978" ph="{...}" />
+            <marker date="1552633010416" expanded="true" signature="2400:2512" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <marker date="1552639526531" expanded="false" signature="6:457" ph="..." />
+            <marker date="1552639526531" expanded="true" signature="472:1834" ph="{...}" />
+            <marker date="1552639526531" expanded="true" signature="499:1832" ph="{...}" />
+            <marker date="1552639526531" expanded="true" signature="558:621" ph="{...}" />
+            <marker date="1552639526531" expanded="true" signature="844:1054" ph="{...}" />
+            <marker date="1552639526531" expanded="true" signature="1242:1826" ph="{...}" />
+            <marker date="1552639526531" expanded="true" signature="1289:1366" ph="{...}" />
+            <marker date="1552639526531" expanded="true" signature="1383:1586" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

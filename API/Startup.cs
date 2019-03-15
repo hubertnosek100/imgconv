@@ -29,6 +29,7 @@ namespace API
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddScoped<IProcessPipeline, ProcessPipeline>();
+            services.AddCors();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -46,6 +47,10 @@ namespace API
 
             app.UseStaticFiles();
             app.UseHttpsRedirection();
+            
+            app.UseCors(builder => 
+                builder.WithOrigins("*")
+                    .AllowAnyHeader());
             app.UseMvc();
         }
     }

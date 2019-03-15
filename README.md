@@ -4,10 +4,10 @@ _imgconv_ is a small project to convert images to .svg format and it's serving A
 
 ## Installation
 
-Use the [docker run](https://docs.docker.com/engine/reference/run/) command to create container.
+Use the [docker-compose up](https://docs.docker.com/compose/reference/up/) command to create container and run container on port 5000.
 
 ```bash
-docker run -d -p 5000:80 edica/imgconv
+docker-compose up -d
 ```
 
 ## Usage
@@ -44,17 +44,17 @@ RESULT
 
 ## License
 
-Licensed under the ImageMagick License (the "License"); you may not use
+1. Licensed under the ImageMagick License (the "License"); you may not use
 this file except in compliance with the License.  You may obtain a copy
 of the License at
 
     https://imagemagick.org/script/license.php
+    
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+    WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
+    License for the specific language governing permissions and limitations
+    under the License.
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
-License for the specific language governing permissions and limitations
-under the License.
-
-[GNU](https://www.gnu.org/licenses/gpl.html)
+2. [GNU](https://www.gnu.org/licenses/gpl.html)
 
